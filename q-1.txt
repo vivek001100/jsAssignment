@@ -1,0 +1,5 @@
+1. What will be the values of x, y and z?
+	let arrayValue = [13];	let [x = 5,  y = 7, z = 10] = arrayValue;
+
+Value of x =13, y=7, z=10.
+X value will updated from the first index value from the arrayValue because of destructuring assignment property of js.

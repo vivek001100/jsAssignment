@@ -1,0 +1,7 @@
+const arrayValue = [1, 2, 3, 4];const [x, ...y] = arrayValue;
+
+What is the value of x and y?
+
+x=1
+y=[2,3,4]
+Here ... is rest operator hence y will get all rest value of the arrayValue in the form of list.
